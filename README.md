@@ -12,15 +12,6 @@
 - 🤖 **Others:** Data Structures, Algorithms, Intro to AI
 
 ---
-## 📩 Certificates
-
-- Deployment of Artificial Intelligence Services in Cloud - Microsoft Al-900 - SENAI-SP
-- Credential code 56922226873/13292894
-  
-- Deployment and Analysis of Data in Cloud - Microsoft DP-900 - SENAI-SP
-- Credential code 56922227382/13345178
-  
----
 
 ## 🎯 Career Goals
 
