@@ -1,9 +1,9 @@
-# 👋 Hello, I'm Lucas da Costa Lopes!
+# 👋 Hello, I'm [Your Name]!
 
 🎓 3rd-year **Information Systems** student  
-💻 Certified **IT Technician** from CEMEP - Paulínia
+💻 Certified **IT Technician** from CEMEP - Paulínia  
+🗣️ **English level:** Intermediate  
 🚀 Actively looking for an **internship in Software Development**
-🗣️ **English level:** Intermediate
 
 ---
 
@@ -11,10 +11,19 @@
 
 - 👨‍💻 **Languages:** Python, Java, C, C#, JavaScript, Kotlin  
 - 🌐 **Web & Mobile Dev:** HTML, CSS, React Native  
-- 💾 **Databases:** SQL, PostgreSQL 
+- 💾 **Databases:** SQL  
 - ⚙️ **Tools:** Git, GitHub, VS Code, IntelliJ, Android Studio  
 - 🤖 **Others:** Data Structures, Algorithms, Intro to AI
 
+---
+## 📩 Certificates
+
+- Deployment of Artificial Intelligence Services in Cloud - Microsoft Al-900 - SENAI-SP
+- Credential code 56922226873/13292894
+  
+- Deployment and Analysis of Data in Cloud - Microsoft DP-900 - SENAI-SP
+- Credential code 56922227382/13345178
+  
 ---
 
 ## 🎯 Career Goals
@@ -32,4 +41,3 @@ I’m passionate about technology and problem-solving. Currently, I’m seeking 
 ---
 
 ⭐ Thanks for visiting my profile!
-
