@@ -2,8 +2,7 @@
 
 🎓 3rd-year **Information Systems** at [PUCCAMP](https://www.puc-campinas.edu.br/)  
 🗣️ **English level:** Intermediate  
-🚀 Actively looking for an **internship in Software Development**  
-
+🚀 **Fullstack Dev**
 ---
 **🧠 Technologies & Tools**  
 
@@ -12,13 +11,10 @@
 - 💾 **Databases:** SQL  
 - ⚙️ **Tools:** Git, GitHub, VS Code, IntelliJ, Android Studio  
 - 🤖 **Others:** Data Structures, Algorithms, Intro to AI
-
 ---
-
 **🎯 Career Goals**  
 
 I’m passionate about technology and problem-solving. Currently, I’m seeking an **internship opportunity in software development** to apply my knowledge, grow professionally, and contribute to impactful tech projects.
-
 ---
 **📫 How to reach me:**  
 
