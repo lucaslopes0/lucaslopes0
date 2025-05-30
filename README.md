@@ -23,10 +23,6 @@ I’m passionate about technology and problem-solving. Currently, I’m seeking 
 
 ---
 
-## English Level
-
----
-
 ## 📫 How to reach me:
 
 - LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)  
