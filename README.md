@@ -34,9 +34,9 @@ I’m passionate about technology and problem-solving. Currently, I’m seeking 
 
 ## 📫 How to reach me:
 
-- LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)  
-- Email: yourname@example.com  
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- LinkedIn: [linkedin.com/in/l-lopes](https://linkedin.com/in/l-lopes)  
+- Email: lucas.clopes04@gmail.com 
+- GitHub: [github.com/lucaslopes0](https://github.com/lucaslopes0)
 
 ---
 
