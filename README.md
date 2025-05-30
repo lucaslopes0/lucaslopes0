@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello, I'm Lucas da Costa Lopes!
 
-<!--
-**lucaslopes0/lucaslopes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year **Information Systems** student  
+💻 Certified **IT Technician** from CEMEP - Paulínia  
+🗣️ **English level:** Intermediate
+🚀 Actively looking for an **internship in Software Development**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technologies & Tools
+
+- 👨‍💻 **Languages:** Python, Java, C, C#, JavaScript, Kotlin  
+- 🌐 **Web & Mobile Dev:** HTML, CSS, React Native  
+- 💾 **Databases:** SQL, PostgreSQL 
+- ⚙️ **Tools:** Git, GitHub, VS Code, IntelliJ, Android Studio  
+- 🤖 **Others:** Data Structures, Algorithms, Intro to AI
+
+---
+
+## 🎯 Career Goals
+
+I’m passionate about technology and problem-solving. Currently, I’m seeking an **internship opportunity in software development** to apply my knowledge, grow professionally, and contribute to impactful tech projects.
+
+---
+
+## English Level
+
+---
+
+## 📫 How to reach me:
+
+- LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)  
+- Email: yourname@example.com  
+- GitHub: [github.com/your-username](https://github.com/your-username)
+
+---
+
+⭐ Thanks for visiting my profile!
+
