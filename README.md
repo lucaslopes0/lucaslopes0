@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Lucas da Costa Lopes!  
 
 
-🎓3rd-year Information Systems at [PUCCAMP](https://www.puc-campinas.edu.br/)  
+3rd-year Information Systems at [PUCCAMP](https://www.puc-campinas.edu.br/)  
 🗣️English level: Intermediate  
 ---
 ## 🧠 Technologies & Tools
