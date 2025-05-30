@@ -1,11 +1,11 @@
-### 👋 Hello, I'm Lucas da Costa Lopes!
+**👋 Hello, I'm Lucas da Costa Lopes!**
 
 🎓 3rd-year **Information Systems** at [PUCCAMP](https://www.puc-campinas.edu.br/)  
 🗣️ **English level:** Intermediate  
 🚀 Actively looking for an **internship in Software Development**  
 
 ---
-### 🧠 Technologies & Tools
+**🧠 Technologies & Tools**  
 
 - 👨‍💻 **Languages:** Python, Java, C, C#, JavaScript, Kotlin  
 - 🌐 **Web & Mobile Dev:** HTML, CSS, React Native  
@@ -15,15 +15,14 @@
 
 ---
 
-### 🎯 Career Goals
+**🎯 Career Goals**  
 
 I’m passionate about technology and problem-solving. Currently, I’m seeking an **internship opportunity in software development** to apply my knowledge, grow professionally, and contribute to impactful tech projects.
 
 ---
-### 📫 How to reach me:
+**📫 How to reach me:**  
 
 - LinkedIn: [linkedin.com/in/l-lopes](https://linkedin.com/in/l-lopes)  
 - Email: lucas.clopes04@gmail.com 
 ---
-
 ⭐ Thanks for visiting my profile!
