@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Lucas da Costa Lopes!
 
 🎓 3rd-year **Information Systems** student  
-💻 Certified **IT Technician** from CEMEP - Paulínia  
-🗣️ **English level:** Intermediate
+💻 Certified **IT Technician** from CEMEP - Paulínia
 🚀 Actively looking for an **internship in Software Development**
+🗣️ **English level:** Intermediate
 
 ---
 
