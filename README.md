@@ -22,11 +22,4 @@ I’m passionate about technology and problem-solving. Currently, I’m seeking 
 
 ---  
 
-**📫 How to reach me:**  
-
-- LinkedIn: [linkedin.com/in/l-lopes](https://linkedin.com/in/l-lopes)  
-- Email: lucas.clopes04@gmail.com
-
----  
-
 ⭐ Thanks for visiting my profile!
