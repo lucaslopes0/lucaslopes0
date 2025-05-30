@@ -1,7 +1,7 @@
-##👋 Hello, I'm Lucas da Costa Lopes!
+#👋 Hello, I'm Lucas da Costa Lopes!
 
-🎓 3rd-year **Information Systems** student  
-🗣️ **English level:** Intermediate  
+- 🎓 3rd-year **Information Systems** student  
+- 🗣️ **English level:** Intermediate  
 ---
 ## 🧠 Technologies & Tools
 
