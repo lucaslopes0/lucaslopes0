@@ -1,12 +1,8 @@
-# 👋 Hello, I'm Lucas da Costa Lopes!
+###👋 Hello, I'm Lucas da Costa Lopes!
 
 🎓 3rd-year **Information Systems** student  
-💻 Certified **IT Technician** from CEMEP - Paulínia  
 🗣️ **English level:** Intermediate  
-🚀 Actively looking for an **internship in Software Development**
-
 ---
-
 ## 🧠 Technologies & Tools
 
 - 👨‍💻 **Languages:** Python, Java, C, C#, JavaScript, Kotlin  
@@ -31,13 +27,10 @@
 I’m passionate about technology and problem-solving. Currently, I’m seeking an **internship opportunity in software development** to apply my knowledge, grow professionally, and contribute to impactful tech projects.
 
 ---
-
-## 📫 How to reach me:
+📫 How to reach me:
 
 - LinkedIn: [linkedin.com/in/l-lopes](https://linkedin.com/in/l-lopes)  
 - Email: lucas.clopes04@gmail.com 
-- GitHub: [github.com/lucaslopes0](https://github.com/lucaslopes0)
-
 ---
 
 ⭐ Thanks for visiting my profile!
