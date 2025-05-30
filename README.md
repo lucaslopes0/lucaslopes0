@@ -4,7 +4,7 @@
 🗣️ **English level:** Intermediate  
 🚀 **Fullstack Dev**  
 
----
+--
 
 **🧠 Technologies & Tools**
 
